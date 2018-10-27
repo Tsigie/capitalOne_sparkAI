@@ -1,0 +1,22 @@
+{
+  "name": "capitalone_sparkai",
+  "version": "1.0.0",
+  "description": "October 27th, 2018 Spark &amp; AI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsigie/capitalOne_sparkAI.git"
+  },
+  "author": "Tsigie Kumssa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsigie/capitalOne_sparkAI/issues"
+  },
+  "homepage": "https://github.com/Tsigie/capitalOne_sparkAI#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
